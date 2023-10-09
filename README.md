@@ -10,7 +10,7 @@ Please follow mini-imagenet-tools (https://github.com/yaoyao-liu/mini-imagenet-t
 ## Pretraining 
 Please follow https://github.com/mrkshllr/FewTURE/tree/main to pretrain the backbone ViT-small and put it in ./initialization/miniimagenet.
 
-# Training and inference
+## Training and inference
 Please see ./run.sh.
 
 ## License
