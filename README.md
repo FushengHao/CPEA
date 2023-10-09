@@ -14,7 +14,7 @@ Please follow https://github.com/mrkshllr/FewTURE/tree/main to pretrain the back
 Please see ./run.sh.
 
 ## Quick start :fire:
-Please refer to https://github.com/mrkshllr/FewTURE/tree/main to download the miniImageNet dataset and the pretrained ViT-small, put them in the corresponding folders, and run ./run.sh in bash shell.
+Please refer to https://github.com/mrkshllr/FewTURE/tree/main to download the miniImageNet dataset and the checkpoint of the pretrained ViT-small, put them in the corresponding folders, and run ./run.sh in bash shell.
 
 ## License
 This repository is released under the Apache 2.0 license as found in the [LICENSE](https://github.com/FushengHao/CPEA/blob/main/LICENSE) file.
