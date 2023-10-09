@@ -17,7 +17,7 @@ Please see ./run.sh.
 This repository is released under the Apache 2.0 license as found in the [LICENSE](https://github.com/FushengHao/CPEA/LICENSE) file.
 
 ## Acknowledgement
-This repository is built using components of the [FewTURE](https://github.com/mrkshllr/FewTURE) for pretraining and [FEAT](https://github.com/Sha-Lab/FEAT) for training and inference.
+This repository is built using components of the [FewTURE](https://github.com/mrkshllr/FewTURE) repository for pretraining and the [FEAT](https://github.com/Sha-Lab/FEAT) repository for training and inference.
 
 ## Citing CPEA
 If you find this repository useful, please consider giving us a star :star: and cite our work:
