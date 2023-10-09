@@ -14,7 +14,7 @@ Please follow https://github.com/mrkshllr/FewTURE/tree/main to pretrain the back
 Please see ./run.sh.
 
 ## Quick start :fire:
-- Please refer to https://github.com/mrkshllr/FewTURE/tree/main to download the miniImageNet dataset and the checkpoint of the pretrained ViT-small.
+- Please refer to https://github.com/mrkshllr/FewTURE/tree/main to download the miniImageNet dataset and the checkpoint of the corresponding pretrained ViT-small model.
 
 - Put them in the corresponding folders.
 
