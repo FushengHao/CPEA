@@ -14,7 +14,7 @@ Please follow https://github.com/mrkshllr/FewTURE/tree/main to pretrain the back
 Please see ./run.sh.
 
 ## License
-This repository is released under the Apache 2.0 license as found in the [LICENSE](https://github.com/FushengHao/CPEA/LICENSE) file.
+This repository is released under the Apache 2.0 license as found in the [LICENSE]([https://github.com/FushengHao/CPEA/blob/main/LICENSE]) file.
 
 ## Acknowledgement
 This repository is built using components of the [FewTURE](https://github.com/mrkshllr/FewTURE) repository for pretraining and the [FEAT](https://github.com/Sha-Lab/FEAT) repository for training and inference.
