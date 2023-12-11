@@ -7,6 +7,9 @@ Python 3.8, Pytorch 1.7.0, timm 0.3.2
 ## Datasets
 Please follow mini-imagenet-tools (https://github.com/yaoyao-liu/mini-imagenet-tools) to obtain the miniImageNet dataset and put it in ./datasets/mini/.
 
+Please follow tiered-imagenet-tools (https://github.com/yaoyao-liu/tiered-imagenet-tools) to obtain the tieredImageNet dataset and put it in ./datasets/tiered/.
+
+
 ## Pretraining 
 Please follow https://github.com/mrkshllr/FewTURE/tree/main to pretrain the backbone ViT-small and put it in ./initialization/miniimagenet.
 
