@@ -5,9 +5,13 @@ Official PyTorch implementation of the paper **Class-Aware Patch Embedding Adapt
 Python 3.8, Pytorch 1.7.0, timm 0.3.2
 
 ## Datasets
-Please follow mini-imagenet-tools (https://github.com/yaoyao-liu/mini-imagenet-tools) to obtain the miniImageNet dataset and put it in ./datasets/mini/.
+Please follow [mini-imagenet-tools](https://github.com/yaoyao-liu/mini-imagenet-tools) to obtain the miniImageNet dataset and put it in ./datasets/mini/.
 
-Please follow tiered-imagenet-tools (https://github.com/yaoyao-liu/tiered-imagenet-tools) to obtain the tieredImageNet dataset and put it in ./datasets/tiered/.
+Please follow [tiered-imagenet-tools](https://github.com/yaoyao-liu/tiered-imagenet-tools) to obtain the tieredImageNet dataset and put it in ./datasets/tiered/.
+
+Please follow [download_cifar_fs.sh](https://github.com/mrkshllr/FewTURE/blob/main/datasets/download_cifar_fs.sh) to obtain the CIFAR-FS dataset and put it in ./datasets/cifarfs/.
+
+Please follow [download_fc100.sh](https://github.com/mrkshllr/FewTURE/blob/main/datasets/download_fc100.sh) to obtain the FC100 dataset and put it in ./datasets/fc100/.
 
 
 ## Pretraining 
